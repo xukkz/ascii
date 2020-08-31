@@ -11,3 +11,17 @@ C:\Users\wiggo\ascii\obj\Debug\net5.0\ascii.csproj.CoreCompileInputs.cache
 C:\Users\wiggo\ascii\obj\Debug\net5.0\ascii.dll
 C:\Users\wiggo\ascii\obj\Debug\net5.0\ascii.pdb
 C:\Users\wiggo\ascii\obj\Debug\net5.0\ascii.genruntimeconfig.cache
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\bin\Debug\net5.0\ascii.exe
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\bin\Debug\net5.0\ascii.deps.json
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\bin\Debug\net5.0\ascii.runtimeconfig.json
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\bin\Debug\net5.0\ascii.runtimeconfig.dev.json
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\bin\Debug\net5.0\ascii.dll
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\bin\Debug\net5.0\ascii.pdb
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.csprojAssemblyReference.cache
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.AssemblyInfoInputs.cache
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.AssemblyInfo.cs
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.csproj.CoreCompileInputs.cache
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.dll
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.pdb
+C:\Users\wiggo.bergman\Documents\GitHub\ascii\obj\Debug\net5.0\ascii.genruntimeconfig.cache

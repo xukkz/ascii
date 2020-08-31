@@ -1,26 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v5.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v5.0": []
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wiggo\\.nuget\\packages\\": {}
+    "C:\\Users\\wiggo.bergman\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wiggo\\ascii\\ascii.csproj",
+      "projectUniqueName": "C:\\Users\\wiggo.bergman\\Documents\\GitHub\\ascii\\ascii.csproj",
       "projectName": "ascii",
-      "projectPath": "C:\\Users\\wiggo\\ascii\\ascii.csproj",
-      "packagesPath": "C:\\Users\\wiggo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wiggo\\ascii\\obj\\",
+      "projectPath": "C:\\Users\\wiggo.bergman\\Documents\\GitHub\\ascii\\ascii.csproj",
+      "packagesPath": "C:\\Users\\wiggo.bergman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wiggo.bergman\\Documents\\GitHub\\ascii\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\wiggo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wiggo.bergman\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +36,7 @@
       },
       "frameworks": {
         "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,6 +48,7 @@
     },
     "frameworks": {
       "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.5.20279.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20417.9\\RuntimeIdentifierGraph.json"
       }
     }
   }
