@@ -45,6 +45,7 @@ namespace ascii
             Console.WriteLine(calculateBinary(input = Console.ReadLine()));
             Console.ReadLine();
 
+
             Main();
         }
     }
