@@ -9,6 +9,7 @@ namespace ascii
         public static string result;
         public static string calculateBinary(string x)
         {
+
             test = x;
             result = Convert.ToString(Convert.ToInt32(test, 2), 10);
 
@@ -38,10 +39,12 @@ namespace ascii
 
         static void Main()
         {
-            input = Console.ReadLine();
 
-            Console.WriteLine(calculateBinary(input));
+
+            Console.WriteLine("Enter a number in binary: ");
+            Console.WriteLine(calculateBinary(input = Console.ReadLine()));
             Console.ReadLine();
+
             Main();
         }
     }

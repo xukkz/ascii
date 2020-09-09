@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H30e1PBoq39I1cLMla/S17ax5ZtKhzTmWmFAghOaiJ1zY+4AIwk4CmnXK9pjWSQccQ/l0C0qgtJkRJf+iUSZzQ==",
+  "dgSpecHash": "Ap5zFOcJSAir0vBPFFkOrMDJ0ASNUYIDNtyCG6v2gXjydwi67zDMbFxUmT3U58qaqizOt4pkI+SK4opM7N4iPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wiggo.bergman\\Documents\\GitHub\\ascii\\ascii.csproj",
+  "projectFilePath": "C:\\Users\\wiggo\\ascii\\ascii.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
